@@ -57,7 +57,7 @@ translator_app/
 - `config.py` means anyone can run this project by only editing their paths once
 - `NLLB.py` is pure backend — no UI code
 - `app.py` is pure frontend — no model code
-- Clean separation = easy to maintain and explain
+
 
 ---
 
