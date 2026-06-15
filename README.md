@@ -1,5 +1,4 @@
 # Offline Multilingual Translator — Project Explanation
-### For Senior Review Presentation
 
 ---
 
